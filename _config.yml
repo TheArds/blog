@@ -8,14 +8,6 @@ prose:
   media: 'media'
   metadata:
     _posts/news:
-      - name: "category"
-        field:
-          element: "hidden"
-          value: "news"
-      - name: "title"
-        field:
-          element: "hidden"
-          value: "blog"
       - name: "title"
         field:
           element: "text"
