@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /news
 permalink: pretty
 markdown: rdiscount
 prose:
