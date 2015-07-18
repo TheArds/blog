@@ -26,7 +26,7 @@ A worthy achievement of note is that we are the only swimming club in Ireland to
 		</tr>
 	</thead>
 	<tbody>
-		<tr><td>Bethany Firth<td></tr>
+		<tr><td>Bethany Firth</td></tr>
 		<tr><td>Conor Munn</td></tr>
 		<tr><td>Matthew Scott</td></tr>
 		<tr><td>Hannah James</td></tr>
