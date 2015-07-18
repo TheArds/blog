@@ -1,29 +1,29 @@
 ### Swim Ireland
-[Swim Ireland][1] [(HyTek)][2]
+[Swim Ireland][1] [(HyTek)][2]  
 
 ### Swim Ulster
-[Swim Ulster Results][3]
+[Swim Ulster Results][3]  
 
 ### Irish Schools
-[Irish Schools, 2014: 11+ years][4]
-[Irish Schools, 2014: 9-10 year olds][5]
+[Irish Schools, 2014: 11+ years][4]  
+[Irish Schools, 2014: 9-10 year olds][5]  
 
 ### Ulster Schools
-[Ulster Schools, 2012 onwards][6]
+[Ulster Schools, 2012 onwards][6]  
 
 ### Other
-[Ards, 2015][7]
-[Antrim Champs, 2015][8]
-[Bangor Long Course, 2015][9]
-[Leinstein Distance Results, 2015][10]
+[Ards, 2015][7]  
+[Antrim Champs, 2015][8]  
+[Bangor Long Course, 2015][9]  
+[Leinstein Distance Results, 2015][10]  
 
-[Swim4Life, Dec 2014][11]
-[Ards' Open, 2014][12]
+[Swim4Life, Dec 2014][11]  
+[Ards' Open, 2014][12]  
 
-[Ards' Open, 2013][13] [(HyTek)][14]
-[Antrim Champs, 2013][15]
+[Ards' Open, 2013][13] [(HyTek)][14]  
+[Antrim Champs, 2013][15]  
 
-[Ards' Open, 2012][16]
+[Ards' Open, 2012][16]  
 
 
   [1]: http://www.swimireland.ie/index.php?option=com_content&view=article&id=225&Itemid=308
@@ -42,6 +42,3 @@
   [14]: http://www.ardsswimmingclub.co.uk/wp/wp-content/uploads/2012/05/Meet_Results-Ards_Junior_Open_Gala_18th_May_2013-18May2013-001.zip
   [15]: http://www.ardsswimmingclub.co.uk/wp/wp-content/uploads/2012/05/antrim-champs-results-2013.pdf
   [16]: http://www.ardsswimmingclub.co.uk/wp/wp-content/uploads/2012/05/Ards-Open_results-2012.pdf
-
-
-> Written with [StackEdit](https://stackedit.io/).
