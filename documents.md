@@ -1,14 +1,23 @@
 [Committee 2015-2016][1]
 
+<div class="row">
+<div class="col-xs-6">  
+
 ### Membership
 [Welcome Pack][2]  
 [Registration Pack][3]  
 [Direct Debit Payment Form][4]  
 
+</div>  
+<div class="col-xs-6">  
+
 ### Parent Rota and Volunteering
 [NI Direct Access Application Form][5]  
 [Gala Volunteering Form][6]  
 [Parent Rota][7]  
+
+</div>  
+<div class="col-xs-6">  
 
 ### Coaches and Team Managers
 [Team Manager Roles and Responsibilities][8]  
@@ -18,22 +27,37 @@
 [Trip Planning Checklist][11]  
 [Club Trip Report Planning][12]  
 
-----------
+</div>  
+</div>  
+
+<div class="row">  
+<div class="col-xs-6">  
 
 ### Code of Conduct
 [Swim Ireland Disciplinary Rules and Procedures][13]  
+
+</div>  
+<div class="col-xs-6">  
 
 ### Complaints
 [General Complaints Form][14]  
 [Child Welfare Form][15]  
 
+</div>
+<div class="col-xs-6">  
+
 ### Constitution
 [Ards Club Constitution][16]  
+
+</div>  
+<div class="col-xs-6">  
 
 ### Medical
 [Medical Form][17]  
 [Swim Ireland Accident Report Form][18]  
 
+</div>  
+</div>  
 
   [1]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-committee-2015-2016.doc
   [2]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-welcome-pack.doc
