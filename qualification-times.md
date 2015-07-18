@@ -1,0 +1,25 @@
+### Ards Junior Open 2015
+[Gala Announcement][1]
+[HyTek File][2]
+
+### Swim Ireland
+[Swim Ireland Club Handbook][3]
+[Swim Ireland National Squad Portal][4]
+
+### Swim Ulster
+[Ulster Squad Times, 2015-2016][5]
+
+[Swim Ulster Open Meets, 2014-2015][8] *(Halloween, Christmas, and Valentines)*
+[Ulster Age Group and Youth Championships, 2014][7]
+[Ulster Open Championships, November 2014][9]
+
+
+  [1]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-junior-open-meet-announcement.docx
+  [2]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-jnr-open-2015-hytek-meet.zip
+  [3]: http://www.ardsswimmingclub.co.uk/dist/documents/SI-ClubHandbook-2014.pdf
+  [4]: http://www.jotformeu.com/hp@swimireland.ie/SI_NSP_APPLICATION_FORM
+  [5]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster%20Squad%20Times%202015-2016.pdf
+  [6]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster%20Squad%20Times%202014-15.pdf
+  [7]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster%20Age%20group%20&%20Youth%20Champuionships%20-%202015.pdf
+  [8]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/SU%20Autumn%20Spring%20&%20Summer%20Qualifying%20Meet%20Information%20%28Final%29.pdf
+  [9]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster%20Open%20SC%20-%20Nov%202014.pdf
