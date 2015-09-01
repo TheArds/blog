@@ -42,7 +42,7 @@
   [4]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-complaints-child-welfare.docx
   [5]: http://www.ardsswimmingclub.co.uk/dist/documents/Swim%20Ulster%20NI%20Direct%20Application.pdf
   [6]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-gala-volunteering.docx
-  [7]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-parent-rota%20%28jan-apr%29.doc
+  [7]: http://www.ardsswimmingclub.co.uk/dist/documents/Parent%20Rota%20Term%201%20%282015-16%29.doc
   [8]: http://www.ardsswimmingclub.co.uk/dist/documents/swim-ireland-team-managers-responsibilities.pdf
   [9]: http://www.ardsswimmingclub.co.uk/dist/documents/swim-ireland-team-managers-report-template.pdf
   [10]: http://www.ardsswimmingclub.co.uk/dist/documents/swim-ireland-team-managers-planning-competitions.pdf
