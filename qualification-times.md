@@ -1,3 +1,6 @@
+### Ards Squad Criteria
+[Age Group Development Squad][10]
+
 ### Ards Junior Open 2015
 [Gala Announcement][1]  
 [HyTek File][2]  
@@ -23,3 +26,4 @@
   [7]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster%20Age%20group%20&%20Youth%20Champuionships%20-%202015.pdf
   [8]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/SU%20Autumn%20Spring%20&%20Summer%20Qualifying%20Meet%20Information%20%28Final%29.pdf
   [9]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster%20Open%20SC%20-%20Nov%202014.pdf
+  [10]: http://www.ardsswimmingclub.co.uk/dist/documents/age-group-development-squad.docx
