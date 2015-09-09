@@ -10,11 +10,11 @@
 [Swim Ireland National Squad Portal][4]  
 
 ### Swim Ulster
+[Development Meet Information, 2015-2016][11]  
+[Qualifying Meet Information, 2015-2016][12]  
+[Ulster SC Championships, Nov 2015][13]  
 [Ulster Squad Times, 2015-2016][5]  
 
-[Swim Ulster Open Meets, 2014-2015][8] *(Halloween, Christmas, and Valentines)*  
-[Ulster Age Group and Youth Championships, 2014][7]  
-[Ulster Open Championships, November 2014][9]  
 
 
   [1]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-junior-open-meet-announcement.docx
@@ -27,3 +27,6 @@
   [8]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/SU%20Autumn%20Spring%20&%20Summer%20Qualifying%20Meet%20Information%20%28Final%29.pdf
   [9]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster%20Open%20SC%20-%20Nov%202014.pdf
   [10]: http://www.ardsswimmingclub.co.uk/dist/documents/age-group-development-squad.docx
+  [11]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Development-Meet-Information-2015-2016.pdf
+  [12]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Qualifying-Meet-Information-2015-2016.pdf
+  [13]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Swim%20Ulster%20Open%20meets%20-%202014-2015.pdf
