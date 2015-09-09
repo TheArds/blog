@@ -29,4 +29,4 @@
   [10]: http://www.ardsswimmingclub.co.uk/dist/documents/age-group-development-squad.docx
   [11]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Development-Meet-Information-2015-2016.pdf
   [12]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Qualifying-Meet-Information-2015-2016.pdf
-  [13]: http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Swim%20Ulster%20Open%20meets%20-%202014-2015.pdf
+  [13]: www.ardsswimmingclub.co.uk//dist/documents/qualification-times/Ulster-Short-Course-Championships-Nov-2015.pdf
