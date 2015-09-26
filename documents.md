@@ -1,5 +1,6 @@
 ### Members  
 [Committee 2015-2016][1]
+[Club Handbook][20]
 
 ### Membership
 [Welcome Pack][2]  
@@ -56,3 +57,4 @@
   [17]: http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-medical-form.pdf
   [18]: http://www.ardsswimmingclub.co.uk/dist/documents/swim-ireland-accident-form.pdf
   [19]: https://drive.google.com/file/d/0B-9TFv71T9mKMWtLWTlGTTI5eUU/view?usp=sharing
+  [20]: https://drive.google.com/file/d/0B-9TFv71T9mKRUpsckpEUE5iNlk/view?usp=sharing
