@@ -2,27 +2,22 @@
   <div class="row">
     <div class="col-xs-6">
       <h3>Swim Ireland</h3>
-    
       <a title="Swim Ireland" href="http://www.swimireland.ie/index.php?option=com_content&view=article&id=225&Itemid=308">Swim Ireland</a>
       <a title="Swim Ireland (HyTek File)" href="http://www.sports-tek.com/tmonline/aMEETS.asp?DB=uploadswimirelandofficecopy.mdb">(HyTek)</a>
     </div>
-    
     <div class="col-xs-6">
       <h3>Swim Ulster</h3>
       <a title="Swim Ulster Results" href="http://www.swimulster.net/Competitive-Swimming/Competitions/Results.aspx">Swim Ulster Results</a>
     </div>
   </div>  
 </div>
-
 <div class="col-xs-12">
   <div class="row">
     <div class="col-xs-6">
       <h3>Irish Schools</h3>
-      
       <a title="Irish Schools, 2014: 11+ years" href="http://www.ardsswimmingclub.co.uk/wp/wp-content/uploads/2014/02/irish-schools-2014.pdf">Irish Schools, 2014: 11+ years</a><br />
       <a title="Irish Schools, 2014: 9-10 year olds" href="http://www.ardsswimmingclub.co.uk/wp/wp-content/uploads/2014/02/age-9-10-irish-schools-2014.pdf">Irish Schools, 2014: 9-10 year olds</a>
     </div>
-    
     <div class="col-xs-6">
       <h3>Ulster Schools</h3>
       <a title="Ulster Schools, 2012 onwards" href="http://www.ulsterschoolsswimming.co.uk/results/4579894843">Ulster Schools, 2012 onwards</a>
