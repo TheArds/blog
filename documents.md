@@ -4,7 +4,7 @@
     <a title="Constitution" href="https://drive.google.com/file/d/0B-9TFv71T9mKenVRWU5uMVVzV0k/view?usp=sharing">Constitution</a><br />
     <a title="Welcome Pack" href="https://drive.google.com/file/d/0B-9TFv71T9mKYWRDQ2hCbnYzdFE/view?usp=sharing">Welcome Pack</a><br />
     <a title="Direct Debit Payment Pack" href="http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-complaints-child-welfare.docx">Direct Debit Payment Pack</a><br />
-    <a title="Registration Pack">Registration Pack</a>
+    <a title="Registration Pack" href="https://drive.google.com/file/d/0B-9TFv71T9mKbEx1ZjRxUUN3RGM/view?usp=sharing">Registration Pack</a>
   </div>
   
   <div class="col-xs-6">
