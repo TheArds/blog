@@ -47,5 +47,5 @@
       <a title="Antrim Champs, 2013" href="http://www.ardsswimmingclub.co.uk/wp/wp-content/uploads/2012/05/antrim-champs-results-2013.pdf">Antrim Champs, 2013</a>
     </div>
   </div>
-</div
+</div>
 
