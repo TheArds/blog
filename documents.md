@@ -7,7 +7,6 @@
       <a title="Direct Debit Payment Pack" href="http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-complaints-child-welfare.docx">Direct Debit Payment Pack</a><br />
       <a title="Registration Pack" href="https://drive.google.com/file/d/0B-9TFv71T9mKbEx1ZjRxUUN3RGM/view?usp=sharing">Registration Pack</a>
     </div>
-    
     <div class="col-xs-6">
       <h3>Coachers and Team Manager</h3>
       <a title="Team Manager Roles and Responsibilities" href="http://www.ardsswimmingclub.co.uk/dist/documents/swim-ireland-team-managers-responsibilities.pdf">Team Manager Roles and Responsibilities</a><br />
@@ -20,7 +19,6 @@
     </div>
   </div>
 </div>
-
 <div class="col-xs-12">
   <div class="row">
     <div class="col-xs-6">
