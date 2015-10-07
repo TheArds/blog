@@ -3,7 +3,7 @@
     <div class="col-xs-6">
       <h3>Swim Ireland</h3>
     
-      <a title="Swim Ireland" href="http://www.swimireland.ie/index.php?option=com_content&view=article&id=225&Itemid=308">Swim Ireland</a><br />
+      <a title="Swim Ireland" href="http://www.swimireland.ie/index.php?option=com_content&view=article&id=225&Itemid=308">Swim Ireland</a>
       <a title="Swim Ireland (HyTek File)" href="http://www.sports-tek.com/tmonline/aMEETS.asp?DB=uploadswimirelandofficecopy.mdb">(HyTek)</a>
     </div>
     
@@ -13,6 +13,7 @@
     </div>
   </div>  
 </div>
+
 <div class="col-xs-12">
   <div class="row">
     <div class="col-xs-6">
