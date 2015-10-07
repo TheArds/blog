@@ -1,5 +1,5 @@
 ## Ards' Swimming Club
-## *Swim Ireland Club of the Year!!*
+### *Swim Ireland Club of the Year!!*
 
 We are a competitive Swimming Club based in Newtownards Leisure Centre, Northern Ireland. The Club caters for beginner-level swimmers from age six, to competitive swimmers at Senior and Master's level. 
 
