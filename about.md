@@ -4,4 +4,6 @@ We are a competitive Swimming Club based in Newtownards Leisure Centre, Northern
 
 A worthy achievement of note is that we are the only swimming club in Ireland to have had swimmers on both the 2008 and 2012 Olympic Games Squad, and the 2010 and 2014 Commonwealth Games Squads. 
 
+***
+
 ***Swim Ireland National Squad members:***  Scarlett Armstrong, James Brown,  Curtis Coulter, Paddy Johnston, Amelia Kane, Ellie McKibben, Emma Reid, Rebecca Reid and Zoe Thompson
