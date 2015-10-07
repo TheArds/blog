@@ -22,7 +22,7 @@
     <div class="col-xs-6">
       <h3>Swim Ulster</h3>
       <a title="Development Meet Information, 2015-2016" href="http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Development-Meet-Information-2015-2016.pdf">Development Meet Information, 2015-2016</a><br />
-      <a title="Qualifying Meet Information, 2015-2016" href="http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Qualifying-Meet-Information-2015-2016.pdf">Development Meet Information, 2015-2016</a><br />
+      <a title="Qualifying Meet Information, 2015-2016" href="http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Qualifying-Meet-Information-2015-2016.pdf">Qualifying Meet Information, 2015-2016</a><br />
       <a title="Ulster SC Championships, Nov 2015" href="http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster-Short-Course-Championships-Nov-2015.pdf">Ulster SC Championships, Nov 2015</a><br />
       <a title="Ulster Squad Times, 2015-2016" href="http://www.ardsswimmingclub.co.uk/dist/documents/qualification-times/Ulster%20Squad%20Times%202015-2016.pdf">Ulster Squad Times, 2015-2016</a>
     </div>
