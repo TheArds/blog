@@ -16,8 +16,7 @@
   <div class="row">
     <div class="col-xs-6">
       <h3>Swim Ireland</h3>
-      <a title="Swim Ireland Club" href="http://www.ardsswimmingclub.co.uk/dist/documents/SI-ClubHandbook-2014.pdf">Swim Ireland Club</a><br />
-      <a title="Swim Ireland National Squad Portal" href="http://www.jotformeu.com/hp@swimireland.ie/SI_NSP_APPLICATION_FORM">Swim Ireland National Squad Portal</a>
+      <a title=" Swim Ireland – National Competitions" href="http://www.swimireland.ie/high-performance-swimming/national-competitions/next-national-competition/"> Swim Ireland – National Competitions</a>
     </div>
     <div class="col-xs-6">
       <h3>Swim Ulster</h3>
