@@ -28,8 +28,7 @@
       <a title="Parent Rota" href="http://www.ardsswimmingclub.co.uk/dist/documents/Parent%20Rota%20Term%201%20%282015-16%29.doc">Parent Rota</a>
     </div>
     <div class="col-xs-6">
-      <h3>Code of Conduct & Complaints</h3> 
-      <a title="Child Welfare Form" href="http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-complaints-child-welfare.docx">Child Welfare Form</a>
+      <h3>Code of Conduct & Complaints</h3>
       <a title="Swim Ireland Policies & Procedures" href="http://www.swimireland.ie/policies-resources/">Swim Ireland Policies & Procedures</a>
     </div>
   </div>
