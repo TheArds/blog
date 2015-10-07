@@ -26,7 +26,6 @@
       <h3>Ulster Schools</h3>
       <a title="Ulster Schools, 2012 onwards" href="http://www.ulsterschoolsswimming.co.uk/results/4579894843">Ulster Schools, 2012 onwards</a>
     </div>
-    <div>
   </div>
 </div>
 
