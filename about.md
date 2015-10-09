@@ -7,4 +7,4 @@ A worthy achievement of note is that we are the only swimming club in Ireland to
 
 ***
 
-***Swim Ireland National Squad members:***  Scarlett Armstrong, James Brown,  Curtis Coulter, Paddy Johnston, Amelia Kane, Ellie McKibben, Emma Reid, Rebecca Reid and Zoe Thompson
+***Swim Ireland National Squad members:***  Scarlett Armstrong, James Brown,  Curtis Coulter, Paddy Johnston, Amelia Kane, Ellie McKibben, Emma Reid, Rebecca Reid, Zoe Thompson and Mary Kate McDowell.
