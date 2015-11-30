@@ -16,7 +16,7 @@
   <div class="row">
     <div class="col-xs-6">
       <h3>Swim Ireland</h3>
-      <a title=" Swim Ireland – National Competitions" href="http://www.swimireland.ie/high-performance-swimming/national-competitions/next-national-competition/"> Swim Ireland – National Competitions</a>
+      <a title=" Swim Ireland Handbook 2015/16" href="https://drive.google.com/file/d/0B-9TFv71T9mKZWNYaG9rcnNrU00/view?usp=sharing">Swim Ireland Handbook 2015/16</a>
     </div>
     <div class="col-xs-6">
       <h3>Swim Ulster</h3>
