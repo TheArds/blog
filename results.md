@@ -11,7 +11,6 @@
     </div>
   </div>  
 </div>
-<br /><br />
 <div class="col-xs-12">
   <div class="row">
     <div class="col-xs-6">
@@ -25,7 +24,6 @@
     </div>
   </div>
 </div>
-<br /><br />
 <div class="col-xs-12 clearfix">
   <div class="row">
     <div class="col-xs-6">
