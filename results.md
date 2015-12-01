@@ -1,3 +1,7 @@
+<style>
+.col-xs-12 { margin-bottom: 30px; }
+</style>
+
 <div class="col-xs-12">
   <div class="row">
     <div class="col-xs-6">
