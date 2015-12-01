@@ -1,4 +1,4 @@
-<div class="col-xs-12 clearfix">
+<div class="col-xs-12">
   <div class="row">
     <div class="col-xs-6">
       <h3>Swim Ireland</h3>
@@ -12,7 +12,7 @@
   </div>  
 </div>
 <br /><br />
-<div class="col-xs-12 clearfix">
+<div class="col-xs-12">
   <div class="row">
     <div class="col-xs-6">
       <h3>Irish Schools</h3>
