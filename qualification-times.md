@@ -8,7 +8,7 @@
 </div>
 <div class="col-xs-6">
   <h3>Swim Ireland</h3>
-  <a title="Competition Results Portal" href="http://sports-tek.com/TMOnline/index.asp">Competition Results Portal</a>
+  <a title="Competition Results Portal" href="http://sports-tek.com/TMOnline/index.asp">Competition Results Portal</a><br />
   <a title="Swim Ireland Handbook 2015/16" href="https://drive.google.com/file/d/0B-9TFv71T9mKZWNYaG9rcnNrU00/view?usp=sharing">Swim Ireland Handbook 2015/16</a>
 </div>
 <div class="col-xs-6">
