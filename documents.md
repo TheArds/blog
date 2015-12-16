@@ -17,8 +17,6 @@
     <a title="Swim Ireland Accident Report Form" href="http://www.ardsswimmingclub.co.uk/dist/documents/swim-ireland-accident-form.pdf">Swim Ireland Accident Report Form</a>
   </div>
 </div>
-</div>
-<div class="col-xs-12">
 <div class="row">
   <div class="col-xs-6">
     <h3>Parents</h3>
