@@ -22,7 +22,7 @@
     <h3>Parents</h3>
     <a title="NI Direct Access Application Form" href="http://www.ardsswimmingclub.co.uk/dist/documents/Swim%20Ulster%20NI%20Direct%20Application.pdf">NI Direct Access Application Form</a><br />
     <a title="Gala Volunteering Form" href="http://www.ardsswimmingclub.co.uk/dist/documents/ards-asc-gala-volunteering.docx">Gala Volunteering Form</a><br />
-    <a title="Parent Rota" href="http://www.ardsswimmingclub.co.uk/dist/documents/Parent%20Rota%20Term%201%20%282015-16%29.doc">Parent Rota</a>
+    <a title="Parent Rota" href="https://docs.google.com/file/d/1Z2JyQ6efHi4UC4-6ZyvnOpDxowatf7N505Dwy2eE1R8/view">Parent Rota</a>
   </div>
   <div class="col-xs-6">
     <h3>Code of Conduct & Complaints</h3>
